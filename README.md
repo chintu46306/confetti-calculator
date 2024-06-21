@@ -9,8 +9,8 @@ calculator should include all basic arithmetic operations, advanced functions li
 logarithms, exponents, and special functions (e.g., factorial, random number). The UI should exactly look
 like the following des
 
-![alt text](image-1.png)
-
+![alt text](image-3.png)
+![alt text](image-2.png)
 # Installation
 1. Clone the repository:
 
