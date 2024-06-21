@@ -388,7 +388,7 @@ const Calculator = () => {
                 active:opacity-80
                 ${button.value == 0 ? "col-span-2" : "col-span-1"}
                 flex items-center justify-center p-5 ${
-                  ["÷", "X", "-", "+", "="].includes(button.value)
+                  ["/", "*", "-", "+", "="].includes(button.value)
                     ? "dark:bg-orange-400 bg-orange-300"
                     : [
                         "1",
